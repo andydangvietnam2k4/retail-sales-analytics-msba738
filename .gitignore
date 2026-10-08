@@ -1,0 +1,21 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python and notebook scratch
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Local exports and caches
+exports/
+cache/
+logs/
